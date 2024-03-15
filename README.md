@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Deepak</h1>
+<h1 align="center">Hi 👋, I'm Brijesh Sharma</h1>
 <h3 align="center">A passionate AWS and DevOps from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkushwahax&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkushwahax" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Service Center Automation Project**
 
 - 🌱 I’m currently learning **Frontend and DevOps**
 
 - 🤝 I’m looking for help with **Open Source**
 
-- 💬 Ask me about **AWS, Java, DevOps**
+- 💬 Ask me about **AWS, Python, DevOps**
 
-- 📫 How to reach me **deepakkushwaha7523@gmail.com**
+- 📫 How to reach me **brijeshsharma2518@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
