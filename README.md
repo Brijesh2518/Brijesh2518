@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brijesh Sharma</h1>
 <h3 align="center">A passionate AWS and DevOps from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkushwahax&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkushwahax" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Brijesh2518&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkushwahax" /> </p>
 
 - 🔭 I’m currently working on **Service Center Automation Project**
 
