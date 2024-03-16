@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brijesh Sharma&show_icons=true&locale=en&layout=compact" alt="Brijesh Sharma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brijesh Sharma&show_icons=true&locale=en" alt="Brijesh Sharma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brijesh2518&show_icons=true&locale=en" alt="Brijesh Sharma" /></p>
