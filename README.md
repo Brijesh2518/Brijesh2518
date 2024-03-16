@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Open Source**
 
-- 💬 Ask me about **AWS, Python, DevOps**
+- 💬 Ask me about **AWS, Python, Database**
 
 - 📫 How to reach me **brijeshsharma2518@gmail.com**
 
