@@ -1,11 +1,11 @@
   <h1 align="center">Hey 👋, I'm ʙʀɪᴊᴇsʜ sʜᴀʀᴍᴀ</h1>
-<h3 align="center">Result Focusing on AWS Cloud Computing </h3>
+<h3 align="center">Result Focusing on AWS Cloud Computing and Devops </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brijesh2518&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkushwahax" /> </p>
 
-- 🔭 I’m currently working on **Service Center Automation Project**
+- 🔭 I’m currently looking for Job
 
-- 🌱 I’m currently learning **Frontend and DevOps**
+- 🌱 I’m currently learning **Cloud Technology and DevOps**
 
 - 🤝 I’m looking for help with **Open Source**
 
