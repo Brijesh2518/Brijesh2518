@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps & Cloud Enthusiast | AWS | CI/CD | Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=DevOps+Engineer+in+Progress;AWS+Cloud+Learner;CI/CD+Pipeline+Builder;Automation+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+DevOps+Engineer;☁️+AWS+Cloud+Explorer;⚙️+CI/CD+Pipeline+Builder;🔥+Automation+Expert" />
 </p>
 
 ---
